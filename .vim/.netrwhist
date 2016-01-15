@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/shin/Git/Haskell/gitit/src/Network/Gitit'
+let g:netrw_dirhist_2='/home/shin/Git/Haskell/gitit/plugins'
+let g:netrw_dirhist_3='/home/shin/Git/Scala/textteaser/src/main/scala/com/textteaser/summarizer/models'
+let g:netrw_dirhist_4='/home/shin/.vim/ftplugin'
+let g:netrw_dirhist_5='/home/shin/Git/Haskell/practice'
